@@ -1,12 +1,12 @@
 ### Hi there, I'm Charan 👋
 
-**VLSI Design Engineer | Analog & Digital IC Design**
+**VLSI Design Engineer | Analog & Digital IC Design | TCAD Engineer**
 
 I am an Electronics and Communication Engineer dedicated to designing reliable, power-efficient semiconductor circuits. I specialize in taking complex hardware challenges from RTL development down to schematic-to-layout verification. 
 
 ⚡ **Quick Facts:**
 * **What I do:** Architect and verify integrated circuits, optimize Power, Performance, and Area (PPA), and build embedded hardware systems.
-* **Core Focus:** Low-Power VLSI, Semiconductor Device Physics, and FSM Design.
+* **Core Focus:** Low-Power VLSI, Semiconductor Device Physics, and FSM Design, Device Modeling.
 * **Current Goal:** Preparing for GATE and building robust hardware projects.
 
 🛠️ **Tech Stack & Tools:**
